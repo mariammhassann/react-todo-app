@@ -1,4 +1,4 @@
-gIVE IT A TRY : https://react-todo-app-tau-eight.vercel.app/
+GIVE IT A TRY : https://react-todo-app-tau-eight.vercel.app/
 
 # React + Vite
 
